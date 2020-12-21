@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.js": "/JaniecMichal/Movie-Browser-react/static/js/main.0ab83817.chunk.js",
+    "main.js.map": "/JaniecMichal/Movie-Browser-react/static/js/main.0ab83817.chunk.js.map",
+    "runtime-main.js": "/JaniecMichal/Movie-Browser-react/static/js/runtime-main.4de6490c.js",
+    "runtime-main.js.map": "/JaniecMichal/Movie-Browser-react/static/js/runtime-main.4de6490c.js.map",
+    "static/js/2.4a540707.chunk.js": "/JaniecMichal/Movie-Browser-react/static/js/2.4a540707.chunk.js",
+    "static/js/2.4a540707.chunk.js.map": "/JaniecMichal/Movie-Browser-react/static/js/2.4a540707.chunk.js.map",
+    "index.html": "/JaniecMichal/Movie-Browser-react/index.html",
+    "precache-manifest.f5fd3ecfedad2300239f564ba4383dca.js": "/JaniecMichal/Movie-Browser-react/precache-manifest.f5fd3ecfedad2300239f564ba4383dca.js",
+    "service-worker.js": "/JaniecMichal/Movie-Browser-react/service-worker.js",
+    "static/js/2.4a540707.chunk.js.LICENSE.txt": "/JaniecMichal/Movie-Browser-react/static/js/2.4a540707.chunk.js.LICENSE.txt",
+    "static/media/Danger.svg": "/JaniecMichal/Movie-Browser-react/static/media/Danger.8815fed7.svg",
+    "static/media/NoPoster.svg": "/JaniecMichal/Movie-Browser-react/static/media/NoPoster.b6c0d625.svg",
+    "static/media/Picture.svg": "/JaniecMichal/Movie-Browser-react/static/media/Picture.3cb4c491.svg",
+    "static/media/Search.svg": "/JaniecMichal/Movie-Browser-react/static/media/Search.56dd92fe.svg",
+    "static/media/Video.svg": "/JaniecMichal/Movie-Browser-react/static/media/Video.cdf24f10.svg",
+    "static/media/film.svg": "/JaniecMichal/Movie-Browser-react/static/media/film.482a96f7.svg",
+    "static/media/spinner.svg": "/JaniecMichal/Movie-Browser-react/static/media/spinner.d057d55a.svg",
+    "static/media/star.svg": "/JaniecMichal/Movie-Browser-react/static/media/star.b489e613.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4de6490c.js",
+    "static/js/2.4a540707.chunk.js",
+    "static/js/main.0ab83817.chunk.js"
+  ]
+}
